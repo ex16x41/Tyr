@@ -1,10 +1,8 @@
 <p align=center>
 
-  <img src="https://user-images.githubusercontent.com/27065646/53551960-ae4dff80-3b3a-11e9-9075-cef786c69364.png"/>
+  <img src="https://user-images.githubusercontent.com/44981946/153040087-b9592664-e53e-4cd1-8d65-ada8d941055f.png"/>
 
 <p align="center">
-<a href="https://asciinema.org/a/223115">
-<img src="./images/sherlock_demo.gif"/>
 </a>
 </p>
 
