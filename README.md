@@ -7,6 +7,7 @@
 
 
 Fully automated script for pentesting enumeration of domains, using dorks and awesome queries to find vulnerabiltiies, security misconfigurations and more.
+  Credits to @IvanGlinkin for the inspiration :)
 
 Usage example:
 --------------
