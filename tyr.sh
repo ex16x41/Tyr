@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script for pentest enumeration on web domains
-# Author: Eva Prokofiev
+# Tweaked by: Eva Prokofiev
 
 ## General
 version="1.01"									## Version Year.Day
